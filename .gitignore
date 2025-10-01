@@ -1,0 +1,25 @@
+﻿# Node / Frontend
+node_modules/
+dist/
+build/
+.cache/
+*.log
+*.lock
+*.map
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+
+# PHP/Composer
+vendor/
+composer.lock
+
+# General
+.DS_Store
+Thumbs.db
+.tmp/
+coverage/
